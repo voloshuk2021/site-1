@@ -4,8 +4,6 @@
     <link href="style.css" type="text/css" rel="stylesheet">
   </head>
   <body>
-    <header>
-      <p>rdrd</p>
-    </header>
+    <p> tyuio </p>
   </body>
 </html>
