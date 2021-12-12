@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-color:lightgrey;
 }
 header {
     background-color:darkblue;
@@ -73,4 +74,8 @@ h2{
     color: black;
     border: 3px solid blue;
     padding: 5px;
+}
+
+.qwerty{
+    text-align: center;
 }
