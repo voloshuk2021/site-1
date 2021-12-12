@@ -53,14 +53,13 @@ nav a{
     margin: 25px;
     padding: 5px;
 }
-p img{
-    background-color: green;
-}
+
 .nope{
     background-color: green;
     border-radius: 15px;
     padding: 10px;
     color:white;
+    background-color: green;
 }
 h2{
     margin:30px;
