@@ -3,14 +3,14 @@ body {
     background-color:lightgrey;
 }
 header {
-    background-color:darkblue;
+    background-color:red;
     padding: 5px;
 }
-header img{
-    margin: 5px;
+header p {
+    background-color:white;
 }
-header b{
-    color: white;
+header h1{
+    font-size:20px;
 }
 header a{
     text-decoration:none;
