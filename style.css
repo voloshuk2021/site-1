@@ -10,7 +10,9 @@ header img {
     background-color:red;
 }
 header h1{
-    font-size:40px;
+    font-size:40px;\
+h1 p{
+    color: red;
 }
 header a{
     text-decoration:none;
