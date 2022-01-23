@@ -7,7 +7,7 @@ header {
     padding: 5px;
 }
 header img {
-    
+    background-color:red;
 }
 header h1{
     font-size:40px;
